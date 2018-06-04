@@ -1,3 +1,3 @@
 # README FILE
 
-test
+This is a simple git project
